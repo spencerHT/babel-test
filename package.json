@@ -1,0 +1,14 @@
+{
+  "name": "babel-test-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "spencerHT",
+  "dependencies": {
+    "@babel/core": "7.25.8",
+    "@babel/preset-env": "7.25.8",
+    "@babel/preset-typescript": "7.25.7"
+  }
+}
